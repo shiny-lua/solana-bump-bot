@@ -39,6 +39,3 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 1. `Go to the site and click FREE TRIAL to get a key to activate the bot. `
 2. `Copy this key and click TAKE ADVANTAGE`
 3. `Insert the key into the window that appears and download the bot`
-
-> [!TIP] 
-> If you have problems to understand all of this, [write to us](https://t.me/SolVolSupp_bot)!
